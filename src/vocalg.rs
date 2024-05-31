@@ -35,7 +35,6 @@ use fixed::{
     types::I16F16,
     consts::E
 };
-use fixed_sqrt::FixedSqrt;
 
 type Fix = I16F16;
 
